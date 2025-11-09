@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+.env
+.DS_Store
+*.sqlite3
+screenshots/*.png
+# optionally include captured CSV & logs if you don't want them public
+# captured_credentials_redacted.csv
+# app_logs.jsonl
